@@ -1,4 +1,4 @@
-# Brightness Control Using Hand Gestures (OpenCV)
+#  Mouse using Hand and Eye (OpenCV)
 
 This project enables the control of the system's brightness using hand gestures. It leverages the power of **OpenCV** and **MediaPipe** for real-time hand and face mesh detection. The system tracks the position of the user's hand to adjust the brightness, providing an intuitive, hands-free method of controlling the screen's brightness.
 
